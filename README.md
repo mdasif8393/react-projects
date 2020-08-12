@@ -1,13 +1,12 @@
 #react install problem solution
-
-install yarn
-open cmd
-cd desktop
-mkdir react-project
-cd react-project
-create-react-app my-app
-cd my-app
-yarn start
+1. install yarn
+2. open cmd
+3. cd desktop
+4. mkdir react-project
+5. cd react-project
+6. create-react-app my-app
+7. cd my-app
+8. yarn start
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
